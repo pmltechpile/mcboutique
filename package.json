@@ -46,7 +46,7 @@
     "typeorm": "^0.3.16"
   },
   "engines": {
-    "node": ">=18.12.1"
+    "node": ">=16.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.14.3",
